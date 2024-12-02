@@ -18,18 +18,13 @@ Rust File Organizer is a lightweight application that automatically organizes fi
 
 ### **1. Installation**
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/<your-username>/rust-file-organizer.git
-   cd rust-file-organizer
-   ```
 
-2. **Build the Application**:
+1. **Build the Application**:
    ```bash
    cargo build --release
    ```
 
-3. **Locate the Executable**:
+2. **Locate the Executable**:
    - The compiled binary will be located in `target/release`.
 
 ---
