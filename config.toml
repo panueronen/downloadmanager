@@ -1,0 +1,201 @@
+folder_to_watch = "C:\\Users\\panue\\Downloads"
+
+[[file_rules]]
+extension = "mp3"
+folder = "Audio"
+
+[[file_rules]]
+extension = "wav"
+folder = "Audio"
+
+[[file_rules]]
+extension = "flac"
+folder = "Audio"
+
+[[file_rules]]
+extension = "aac"
+folder = "Audio"
+
+[[file_rules]]
+extension = "ogg"
+folder = "Audio"
+
+[[file_rules]]
+extension = "m4a"
+folder = "Audio"
+
+[[file_rules]]
+extension = "zip"
+folder = "Archives"
+
+[[file_rules]]
+extension = "rar"
+folder = "Archives"
+
+[[file_rules]]
+extension = "7z"
+folder = "Archives"
+
+[[file_rules]]
+extension = "tar"
+folder = "Archives"
+
+[[file_rules]]
+extension = "gz"
+folder = "Archives"
+
+[[file_rules]]
+extension = "jpg"
+folder = "Images"
+
+[[file_rules]]
+extension = "jpeg"
+folder = "Images"
+
+[[file_rules]]
+extension = "png"
+folder = "Images"
+
+[[file_rules]]
+extension = "gif"
+folder = "Images"
+
+[[file_rules]]
+extension = "bmp"
+folder = "Images"
+
+[[file_rules]]
+extension = "tiff"
+folder = "Images"
+
+[[file_rules]]
+extension = "svg"
+folder = "Images"
+
+[[file_rules]]
+extension = "pdf"
+folder = "Documents"
+
+[[file_rules]]
+extension = "doc"
+folder = "Documents"
+
+[[file_rules]]
+extension = "docx"
+folder = "Documents"
+
+[[file_rules]]
+extension = "xls"
+folder = "Documents"
+
+[[file_rules]]
+extension = "xlsx"
+folder = "Documents"
+
+[[file_rules]]
+extension = "ppt"
+folder = "Documents"
+
+[[file_rules]]
+extension = "pptx"
+folder = "Documents"
+
+[[file_rules]]
+extension = "txt"
+folder = "Documents"
+
+[[file_rules]]
+extension = "rtf"
+folder = "Documents"
+
+[[file_rules]]
+extension = "epub"
+folder = "Documents"
+
+[[file_rules]]
+extension = "odt"
+folder = "Documents"
+
+[[file_rules]]
+extension = "ods"
+folder = "Documents"
+
+[[file_rules]]
+extension = "odp"
+folder = "Documents"
+
+[[file_rules]]
+extension = "exe"
+folder = "Applications"
+
+[[file_rules]]
+extension = "msi"
+folder = "Applications"
+
+[[file_rules]]
+extension = "bat"
+folder = "Applications"
+
+[[file_rules]]
+extension = "sh"
+folder = "Applications"
+
+[[file_rules]]
+extension = "apk"
+folder = "Applications"
+
+[[file_rules]]
+extension = "dmg"
+folder = "Applications"
+
+[[file_rules]]
+extension = "pkg"
+folder = "Applications"
+
+[[file_rules]]
+extension = "deb"
+folder = "Applications"
+
+[[file_rules]]
+extension = "rpm"
+folder = "Applications"
+
+[[file_rules]]
+extension = "iso"
+folder = "Applications"
+
+[[file_rules]]
+extension = "mp4"
+folder = "Video"
+
+[[file_rules]]
+extension = "avi"
+folder = "Video"
+
+[[file_rules]]
+extension = "mkv"
+folder = "Video"
+
+[[file_rules]]
+extension = "mov"
+folder = "Video"
+
+[[file_rules]]
+extension = "wmv"
+folder = "Video"
+
+[[file_rules]]
+extension = "flv"
+folder = "Video"
+
+[[file_rules]]
+extension = "webm"
+folder = "Video"
+
+[[file_rules]]
+extension = "mpeg"
+folder = "Video"
+
+[[file_rules]]
+extension = "*"
+folder = "Misc"
